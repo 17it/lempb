@@ -1,0 +1,13 @@
+[
+  {
+    "name": "lempb",
+    "script": "./main.js",
+    "merge_logs" : true,
+    "error_file": "/letv/logs/lempb/err_log.log",
+    "out_file": "/letv/logs/lempb/out_log.log",
+    "pid_file": "/letv/logs/lempb/log.pid",
+    "log_date_format": "YYYY-MM-DD HH:mm",
+    "max_memory_restart": "500M",
+    "instances": 2
+  }
+]
