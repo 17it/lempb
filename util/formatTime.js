@@ -22,3 +22,4 @@ module.exports = function (time, timeFormat) {
                         return t[$0] || '';
                 });
         };
+
